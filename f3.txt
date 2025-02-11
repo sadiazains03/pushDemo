@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 hi stash 
+=======
+hi git 
+>>>>>>> Stashed changes
 =======
 hi git 
 >>>>>>> Stashed changes

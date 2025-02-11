@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 hi hello git
+=======
+>>>>>>> parent of 8235d15 (commit f1.txt)

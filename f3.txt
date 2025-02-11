@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-hi stash 
-=======
-hi git 
->>>>>>> Stashed changes
-=======
-hi git 
->>>>>>> b4dcacc (added)
+changed merged conflicts
